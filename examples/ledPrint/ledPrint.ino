@@ -19,7 +19,7 @@
  * 1  1  1  0  | 0  0  0  0    0xE0
  * 1  1  1  0  | 0  0  1  0    0xE2
  * 1  1  1  0  | 0  1  0  0    0xE4
- * 0  0  1  0  | 0  1  1  0    0xE6
+ * 1  1  1  0  | 0  1  1  0    0xE6
  */ 
 DFRobot_LedDisplayModule LED(&Wire, 0xE0);
 
